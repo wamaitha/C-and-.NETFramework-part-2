@@ -1,0 +1,37 @@
+﻿@model IEnumerable<Mvc_Project.Models.Insuree>
+
+@{
+    ViewBag.Title = "Admin";
+}
+
+<h2>Admin</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Age</th>
+            <th>Car Year</th>
+            <th>Car Make</th>
+            <th>Car Model</th>
+            <th>Speeding Tickets</th>
+            <th>DUI</th>
+            <th>Full Coverage</th>
+            <th>Quote</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Age</td>
+                <td>@item.CarYear</td>
+                <td>@item.CarMake</td>
+                <td>@item.CarModel</td>
+                <td>@item.SpeedingTickets</td>
+                <td>@item.DUI</td>
+                <td>@item.FullCoverage</td>
+                <td>@item.Quote</td>
+            </tr>
+        }
+    </tbody>
+</table>
