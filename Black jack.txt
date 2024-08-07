@@ -1,0 +1,26 @@
+1. Set a breakpoint on the first line of the Main method in the Program Class of the TwentyOne console application.
+   - Open `Program.cs` in Visual Studio.
+   - Locate the `Main` method.
+   - Click in the left margin next to the first line of the `Main` method to set a breakpoint.
+
+2. Start the program and use F11 or the Step Into button of Visual Studio's debugger to go step-by-step through the entire program.
+   - Press `F5` to start debugging the program.
+   - Use `F11` to step through the code line by line.
+   - Observe each line's execution to understand how the program works.
+
+3. Answer the following questions:
+
+   a. What is this line of code doing (in TwentyOneRules class)?
+   int playerScore = playerResults.Where(x => x < 22).Max();
+
+   Solution:
+   This line of code filters the playerResults collection to include only those scores less than 22. It then finds the maximum value from this filtered collection and assigns it to playerScore.
+
+   b. What is this block of code doing (in the Main method)?
+   while (player.isActivelyPlaying && player.Balance > 0)
+   {
+       game.Play();
+   }
+
+   Solution:
+   This block of code repeatedly calls the game.Play() method as long as the player is actively playing and has a balance greater than 0. The loop continues until either condition is no longer true.
