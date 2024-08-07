@@ -1,0 +1,16 @@
+C:\Users\azaan\source\repos\polymorphism assignment\bin\Debug\net5.0\polymorphism assignment.exe
+C:\Users\azaan\source\repos\polymorphism assignment\bin\Debug\net5.0\polymorphism assignment.deps.json
+C:\Users\azaan\source\repos\polymorphism assignment\bin\Debug\net5.0\polymorphism assignment.runtimeconfig.json
+C:\Users\azaan\source\repos\polymorphism assignment\bin\Debug\net5.0\polymorphism assignment.runtimeconfig.dev.json
+C:\Users\azaan\source\repos\polymorphism assignment\bin\Debug\net5.0\polymorphism assignment.dll
+C:\Users\azaan\source\repos\polymorphism assignment\bin\Debug\net5.0\ref\polymorphism assignment.dll
+C:\Users\azaan\source\repos\polymorphism assignment\bin\Debug\net5.0\polymorphism assignment.pdb
+C:\Users\azaan\source\repos\polymorphism assignment\obj\Debug\net5.0\polymorphism assignment.csproj.AssemblyReference.cache
+C:\Users\azaan\source\repos\polymorphism assignment\obj\Debug\net5.0\polymorphism assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azaan\source\repos\polymorphism assignment\obj\Debug\net5.0\polymorphism assignment.AssemblyInfoInputs.cache
+C:\Users\azaan\source\repos\polymorphism assignment\obj\Debug\net5.0\polymorphism assignment.AssemblyInfo.cs
+C:\Users\azaan\source\repos\polymorphism assignment\obj\Debug\net5.0\polymorphism assignment.csproj.CoreCompileInputs.cache
+C:\Users\azaan\source\repos\polymorphism assignment\obj\Debug\net5.0\polymorphism assignment.dll
+C:\Users\azaan\source\repos\polymorphism assignment\obj\Debug\net5.0\ref\polymorphism assignment.dll
+C:\Users\azaan\source\repos\polymorphism assignment\obj\Debug\net5.0\polymorphism assignment.pdb
+C:\Users\azaan\source\repos\polymorphism assignment\obj\Debug\net5.0\polymorphism assignment.genruntimeconfig.cache
