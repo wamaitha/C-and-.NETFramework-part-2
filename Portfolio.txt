@@ -1,0 +1,50 @@
+# C# Projects
+
+These are some small projects I made using C# and .NET Framework.
+
+## Projects
+
+- [Project 1: Car Insurance](#car-insurance)
+- [Project 2: NFL Stats](#nfl-stats)
+
+### Car Insurance
+
+Description:
+- A project to calculate car insurance premiums based on various factors such as age, car model, driving history, etc.
+
+Skills & Technologies Used:
+- C#
+- .NET Framework
+- Windows Forms (or WPF if applicable)
+- Object-Oriented Programming (OOP)
+
+### NFL Stats
+
+Description:
+- A project to analyze and display NFL player statistics using data from an external API.
+
+Skills & Technologies Used:
+- C#
+- .NET Framework
+- REST API Integration
+- Data Parsing and Analysis
+
+## How to Run the Projects
+
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/yourusername/your-csharp-repo.git
+    ```
+
+2. Navigate to the project directory:
+    ```sh
+    cd your-csharp-repo/ProjectName
+    ```
+
+3. Open the solution file (`.sln`) in Visual Studio.
+
+4. Build and run the project.
+
+## Contact
+
+For any questions or feedback, please contact me at [your email address].
